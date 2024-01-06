@@ -4,14 +4,14 @@ Este é um projeto simples de previsão de preços de imóveis na Califórnia us
 
 Este é um projeto simples de previsão de preços de imóveis na Califórnia usando regressão linear com Python, Pandas, NumPy e Scikit-Learn.
 
-**Instalação:**
+# Instalação:
 
 Certifique-se de ter o Python e as bibliotecas necessárias instaladas. Você pode instalar as dependências executando o seguinte comando:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib
 
-**Como Usar:**
+# Como Usar:
 
 O script treinará um modelo de regressão linear usando o conjunto de dados de preços de imóveis na Califórnia e mostrará métricas de desempenho.
 Estrutura do Projeto:
@@ -23,7 +23,7 @@ markdown
 
 Este é um projeto simples de previsão de preços de imóveis na Califórnia usando regressão linear com Python, Pandas, NumPy e Scikit-Learn.
 
-**Instalação:**
+# Instalação:
 
 Certifique-se de ter o Python e as bibliotecas necessárias instaladas. Você pode instalar as dependências executando o seguinte comando:
 
