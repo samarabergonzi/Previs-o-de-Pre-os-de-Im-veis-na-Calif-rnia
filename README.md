@@ -30,15 +30,15 @@ Como Usar:
 
 O script treinará um modelo de regressão linear usando o conjunto de dados de preços de imóveis na Califórnia e mostrará métricas de desempenho. Além disso, ele salvará gráficos na pasta output_plots.
 
-Estrutura do Projeto:
+# Estrutura do Projeto:
 
-    previsao_precos_imoveis.py: Script principal que contém o código para treinar o modelo e gerar gráficos.
-    output_plots/: Pasta onde os gráficos serão salvos.
+previsao_precos_imoveis.py: Script principal que contém o código para treinar o modelo e gerar gráficos.
+output_plots/: Pasta onde os gráficos serão salvos.
 
-#Contribuição:
+# Contribuição:
 
 Sinta-se à vontade para contribuir para este projeto. Basta criar um fork, fazer suas alterações e enviar um pull request.
 
-#Licença:
+# Licença:
 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE.md para detalhes.
